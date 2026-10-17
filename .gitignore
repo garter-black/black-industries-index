@@ -1,0 +1,26 @@
+# build artifact - never committed (plan sec.1)
+dist/
+node_modules/
+.wrangler/
+.dev.vars
+.env
+.env.*
+*.local
+
+# media never enters git (plan sec.1) - the media layer is R2 / object storage
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.avif
+*.svg
+*.ico
+*.mp4
+*.webm
+*.mov
+*.mp3
+*.wav
+*.flac
+*.zip
+*.pdf
