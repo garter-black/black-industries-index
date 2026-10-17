@@ -1,7 +1,7 @@
 # build artifact - never committed (plan sec.1)
 dist/
 node_modules/
-.wrangler/
+.wwrangler/
 .dev.vars
 .env
 .env.*
